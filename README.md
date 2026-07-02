@@ -16,7 +16,7 @@ Apasionada por el diseño, la creatividad y el desarrollo web.
 
 ## 💜 Sobre mí
 
-- 🎨 Diseñadora Gráfica apasionada por crear piezas visuales creativas y funcionales.
+- 🎨 Comunicadora Gráfica apasionada por crear piezas visuales creativas y funcionales.
 - 📚 Experiencia en Diseño Editorial, Diseño para Redes Sociales, Identidad Visual y Diseño Web.
 - 💻 Actualmente aprendiendo Desarrollo Frontend y tecnologías web modernas.
 - 🚀 Disfruto combinar creatividad y tecnología para desarrollar proyectos atractivos y funcionales.
