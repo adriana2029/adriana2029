@@ -52,9 +52,9 @@
 <h3>🚀 Actualmente</h3>
 
 - 🌐 Construyendo mi portafolio web profesional.
-- 💻 Aprendiendo HTML, CSS, JavaScript y React.
-- 📚 Mejorando continuamente mis habilidades en diseño y desarrollo web.
-- 🚀 Creando proyectos para fortalecer mi perfil profesional.
+- ⚛️ Aprendiendo React para ampliar mis habilidades en desarrollo frontend.
+- 🎨 Diseñando y desarrollando proyectos que combinan creatividad y funcionalidad.
+- 📚 Perfeccionando mis conocimientos en diseño web, desarrollo frontend y buenas prácticas de UX.
 
 ---
 
