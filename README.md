@@ -96,7 +96,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriana2029&
 
 ---
 
-## 🤝 Conectemos
+## 💜 Sigamos en contacto
 
 <p align="center">
 
