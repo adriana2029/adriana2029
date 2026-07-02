@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 <h2>¡Hola! 👋 Soy Adriana Perez</h2>
 
 <h3>🎨 Sobre mí</h3>
