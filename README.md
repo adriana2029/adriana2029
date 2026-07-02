@@ -38,11 +38,16 @@
 <h3>📊 Estadísticas de GitHub</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriana2029&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriana2029&layout=compact&theme=tokyonight"/>
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=adriana2029&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 
----
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriana2029&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
 <h3>🚀 Actualmente</h3>
 
